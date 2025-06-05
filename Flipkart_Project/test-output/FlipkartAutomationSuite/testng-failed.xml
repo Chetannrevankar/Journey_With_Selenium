@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FlipkartAutomationSuite]">
+  <test thread-count="5" name="SearchAndBuyProductTest(failed)">
+    <classes>
+      <class name="testcases.SearchAndBuyTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="searchAndBuyProduct"/>
+        </methods>
+      </class> <!-- testcases.SearchAndBuyTest -->
+    </classes>
+  </test> <!-- SearchAndBuyProductTest(failed) -->
+</suite> <!-- Failed suite [FlipkartAutomationSuite] -->

@@ -1,0 +1,7 @@
+<suite name="FlipkartAutomationSuite">
+    <test name="SearchAndBuyProductTest">
+        <classes>
+            <class name="testcases.SearchAndBuyTest"/>
+        </classes>
+    </test>
+</suite>
