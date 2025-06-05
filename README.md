@@ -77,6 +77,23 @@ A real time e-commerce test automation framework built to simulate a user journe
 
 ---
 
+## 🖼️ Project Snapshots
+
+Below are the snapshots from the actual test run:
+
+| 🌀 Loading Page | 🧲 Filter Applied | 📱 Product Selected |
+|----------------|------------------|----------------------|
+| ![Loading](./Loading.png) | ![Filtering](./Filtering.png) | ![Selected](./Selected.png) |
+
+---
+
+### 🎥 Demo Video
+
+Watch the automation test in action:
+
+📹 **Project Demo**: [▶ProjectDemo.mp4](./ProjectDemo.mp4)
+
+
 ## 🗂️ Project Structure
 
 ```
