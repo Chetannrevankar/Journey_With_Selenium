@@ -83,7 +83,7 @@ Below are the snapshots from the actual test run:
 
 | 🌀 Loading Page | 🧲 Filter Applied | 📱 Product Selected |
 |----------------|------------------|----------------------|
-| ![Loading](Journey_With_Selenium/Flipkart_Project/Loading.png) | ![Filtering](Journey_With_Selenium/Flipkart_Project/Filtering.png) | ![Selected](Journey_With_Selenium/Flipkart_Project/Selected.png) |
+| ![🖼️Loading](Flipkart_Project/Loading.png) | ![🖼️Filtering](Flipkart_Project/Filtering.png) | ![🖼️Selected](Flipkart_Project/Selected.png) |
 
 ---
 
@@ -91,7 +91,7 @@ Below are the snapshots from the actual test run:
 
 Watch the automation test in action:
 
-📹 **Project Demo**: [▶️ProjectDemo.mp4](Journey_With_Selenium/Flipkart_Project/ProjectDemo.mp4)
+📹 **Project Demo**: [▶️ ProjectDemo.mp4](Flipkart_Project/ProjectDemo.mp4)
 
 
 ## 🗂️ Project Structure
